@@ -1,0 +1,4 @@
+Coloque aqui suas fotos (jpg, png ou webp).
+Depois, em js/config.js, aponte cada imagem, por exemplo:
+  heroImage: "fotos/principal.jpg"
+  { img: "fotos/unha1.jpg", tag: "Delicadeza", title: "Lavanda orgânica" }
